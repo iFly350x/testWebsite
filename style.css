@@ -38,3 +38,11 @@ header{
 #icon2{
 margin: 0px auto;
 }
+
+#copyright{
+	display: flex;
+	  justify-content: center;
+          justify-items: center;
+}
+
+
