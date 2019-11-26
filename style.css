@@ -53,4 +53,6 @@ margin: 0px auto;
 }
 
 
-
+#bar{
+	position: fixed;
+}
